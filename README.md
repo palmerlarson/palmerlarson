@@ -1,2 +1,2 @@
 **I'm Palmer, a Web Developer**
-(My Website)[https://palmerlarson.com/]
+[My Website](https://palmerlarson.com/)https://palmerlarson.com/
