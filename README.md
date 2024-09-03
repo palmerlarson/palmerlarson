@@ -1,3 +1,3 @@
-**I'm Palmer, a Web Developer**
+**I'm Palmer, a Developer**
 
-[My Website](https://palmerlarson.com/) ✌️
+[My Website](https://palmerlarson.com/) 🤖
